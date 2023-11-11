@@ -1,4 +1,4 @@
-![280495741-543c2b5a-0a36-42c5-af5e-76de260ef947](https://github.com/JaisonRaphael/Experiment-5-Implementation-of-XOR-using-RBF/assets/94165957/ea6a38af-0dd8-4d39-b337-d51445c5a245)# Experiment-5-Implementation-of-XOR-using-RBF
+## Experiment-5-Implementation-of-XOR-using-RBF
 
 ## AIM:
   To classify the Binary input patterns of XOR data  by implementing Radial Basis Function Neural Networks.
